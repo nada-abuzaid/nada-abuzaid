@@ -1,7 +1,7 @@
 <div align="left"><h1> Hi, I'm Nada! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <!-- <img align='right' src="https://media.giphy.com/media/ieyl9zmCjO4b4t6qoY/giphy.gif" width="200"> -->
 
-<p>Cyber Information Security Engineering at <a href="https://www.ucas.edu.ps/">UCAS</a> 
+<p>Cyber Information Security Engineering at <a href="http://www.unb.br">UCAS</a> 
 </br>
 
 Member at [@SadeemClub](https://www.facebook.com/SadeemClub)
@@ -31,7 +31,7 @@ const nada = {
 # Activity 
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nada-abuzaid&theme=highcontrast&show_icons=false&count_private=false" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nada-abuzaid&theme=dark&show_icons=true&count_private=false" />
 </div>
 
 <br>
@@ -39,7 +39,7 @@ const nada = {
 # Most Used Languages 
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-abuzaid&layout=compact&theme=highcontrast&show_icons=true&count_private=true" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-abuzaid&layout=compact&theme=dark&blue&show_icons=true&count_private=true" />
 </div>
 
 <br>
