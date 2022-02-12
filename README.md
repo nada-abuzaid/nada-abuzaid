@@ -34,13 +34,6 @@ const nada = {
   <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nada-abuzaid&theme=dark&show_icons=true&count_private=false" />
 </div>
 
-<br>
-
-# Most Used Languages 
-
-<div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nada-abuzaid&layout=compact&theme=dark&blue&show_icons=true&count_private=true" />
-</div>
 
 <br>
 
