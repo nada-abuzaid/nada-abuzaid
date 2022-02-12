@@ -14,7 +14,7 @@ Student in the 11th cohort of the <a href="https://gazaskygeeks.com/coders-caree
 
 Using Linux OS 🐧 
 
-I'm interested in learning new skills 
+I'm interested in space and cosmology ✨
 
 
 <hr>
