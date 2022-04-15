@@ -24,7 +24,7 @@ I'm interested in space and cosmology ✨
 ```javascript
 const nada = {
   pronouns: "she" | "her",
-  Languages and tools: [HTML, CSS, Javascript, Node.js,  C++, Python, Java, API, SASS, SQL, Jest, Github, Matlab, Trello, Figma, photoshop],
+  Languages and tools: [HTML, CSS, Javascript, Node.js, Expressjs, Reactjs, C++, Python, Java, API, SASS, SQL, Jest, Github, Matlab, Trello, Figma, photoshop],
   challenge: "I am doing the #100DaysOfCode challenge focused on react and javascript"
 }
 ```
