@@ -6,7 +6,9 @@
 
 Member at [@SadeemClub](https://www.facebook.com/SadeemClub)
 
-Student in the 11th cohort of the <a href="https://gazaskygeeks.com/coders-career-accelerator-course/">Career Accelerator Program</a> at GSG 
+Graduated from the 11th cohort of the <a href="https://gazaskygeeks.com/coders-career-accelerator-course/">Career Accelerator Program</a> at GSG 
+
+Full-stack Developer at Google For Startups 
 
 </p>
 
