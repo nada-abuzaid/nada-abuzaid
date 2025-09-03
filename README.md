@@ -16,7 +16,7 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Activity
 
 <div align="center">
-  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nada-abuzaid&theme=dark&show_icons=true&count_private=false" />
+  <img height="185em" src="https://github-readme-stats.vercel.app/api?username=nada-abuzaid&theme=dark&show_icons=true&count_private=false" width="40" />
 </div>
 
 <br>
