@@ -11,19 +11,7 @@
 ## 🔧 Languages & Tools
 
 <p align="left">
-  <!-- Frontend -->
-  <img src="https://skillicons.dev/icons?i=html,css,sass,js,react,gatsby,storybook" />
-  <br/>
-  
-  <!-- Backend -->
-  <img src="https://skillicons.dev/icons?i=nodejs,express,cpp,py,java,postgres,mongodb,mysql" />
-  <br/>
-  
-  <!-- Tools & Testing -->
-  <img src="https://skillicons.dev/icons?i=jest,github,figma,ps,notion,trello,ps" />
-</p>
-
----
+<img src="https://skillicons.dev/icons?i=mongodb,nodejs,js,py,html,postman,git,bootstrap,gatsby,redux,css,docker,cpp,react,ps,kali,postgres,figma,java,linux,express,github,notion,codepen" />
 
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="40"> Activity
 
@@ -41,3 +29,4 @@
 [![Twitter: abuzaid_nada](https://img.shields.io/twitter/follow/abuzaid_nada?style=social&theme=highcontrast)](https://twitter.com/abuzaid_nada)
 
 </div>
+
